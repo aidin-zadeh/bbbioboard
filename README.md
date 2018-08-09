@@ -5,7 +5,11 @@
 ## Report
 
 ## Requirements
-- flask 1.0.2 
+- flask         1.0.2
+- jupyter       1.0.0 
+- nb_conda      2.2.1
+- sqlalchemy    1.2.10
+- pandas        0.23.3
  
 ## Directory Structure
 ```
