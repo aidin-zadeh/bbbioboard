@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43f49482-ea9c-4354-8d38-2ad4e845b560" name="Default Changelist" comment="" />
+    <list default="true" id="43f49482-ea9c-4354-8d38-2ad4e845b560" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +46,7 @@
           <entry key="html" value="5" />
           <entry key="ipynb" value="1" />
           <entry key="js" value="10" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="py" value="7" />
           <entry key="txt" value="1" />
           <entry key="yml" value="1" />
@@ -55,7 +58,7 @@
           <entry key="HTML" value="5" />
           <entry key="IPNB" value="1" />
           <entry key="JavaScript" value="10" />
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="6" />
           <entry key="Python" value="7" />
           <entry key="YAML" value="1" />
@@ -67,7 +70,7 @@
           <entry key="Python Console" value="42" />
           <entry key="html" value="2313" />
           <entry key="js" value="3734" />
-          <entry key="md" value="109" />
+          <entry key="md" value="629" />
           <entry key="py" value="1596" />
         </counts>
       </usages-collector>
@@ -75,7 +78,7 @@
         <counts>
           <entry key="HTML" value="2313" />
           <entry key="JavaScript" value="3734" />
-          <entry key="Markdown" value="109" />
+          <entry key="Markdown" value="629" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="1638" />
         </counts>
@@ -103,17 +106,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bbbioboard/static/js/plotly-latest.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#118#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -121,6 +113,18 @@
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -201,7 +205,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/setup.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/notebooks/0.0.explore.data.ipynb" />
         <option value="$PROJECT_DIR$/bbbioboard/static/js/index.init.js" />
         <option value="$PROJECT_DIR$/bbbioboard/__init__.py" />
@@ -211,6 +214,7 @@
         <option value="$PROJECT_DIR$/bbbioboard/views.py" />
         <option value="$PROJECT_DIR$/bbbioboard/templates/index.html" />
         <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -250,6 +254,12 @@
               <item name="bbbioboard" type="b2602c69:ProjectViewProjectNode" />
               <item name="bbbioboard" type="462c0819:PsiDirectoryNode" />
               <item name="bbbioboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bbbioboard" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bbbioboard" type="462c0819:PsiDirectoryNode" />
+              <item name="bbbioboard" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -399,16 +409,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/notebooks/0.0.explore.data.ipynb" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="180">
-            <caret line="12" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -560,6 +560,16 @@
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
