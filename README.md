@@ -1,6 +1,7 @@
 # Belly-button Biodiversity Board
 <p>This repository contains a Python project that implements a Flask based dashboard to explore Belly Button Diversity Dataset.
-The current implementation implements the following objectives:
+The current implementation implements the following objectives:</p>
+
 - USe Python and SQLAlchemy to perform data exploration and data data retrieval.
 - Implement a Flask Web application.
 - Build interactive data visualization by Plotyly.js and D3.js.
