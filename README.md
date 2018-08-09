@@ -6,7 +6,7 @@ The current implementation implements the following objectives:
 - Build interactive data visualization by Plotyly.js and D3.js.
 - Deply the webapp to Heroku.
 
-The current implementation of this project is [here](https://git.heroku.com/bbbioboard-heroku.git).
+The current implementation of this project is [here](https://bbbioboard-heroku.herokuapp.com/).
 
 ## Data
 [Belly Button Biodiversity Dataset](http://robdunnlab.com/projects/belly-button-biodiversity/) by Rob Dun Lab.
